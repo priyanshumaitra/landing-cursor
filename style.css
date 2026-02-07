@@ -1,6 +1,7 @@
 *{
     box-sizing: border-box;
-}
+
+} 
 
 @font-face {
     font-family: 'CursorGothic';
@@ -14,15 +15,14 @@ body{
     background-color: #050400;
     color: #fff;
     font-family: 'CursorGothic', system-ui, sans-serif;
+    margin: auto;
+    width: 68%;
 }
 a{
     text-decoration: none;
     color: inherit;
 }
-body{
-    margin: auto;
-    width: 68%;
-}
+
 .logo{
     display: flex;
     align-items: center;
@@ -421,10 +421,12 @@ nav{
 }
 
 .cta {
-  background: #050400;
-  padding: 160px 0;
+  background: #0d0a07;
+  padding: 80px 0;
   color: #fff;
   font-family: system-ui, sans-serif;
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
 }
 
 .cta-inner {
@@ -483,4 +485,5 @@ nav{
   font-size: 14px;
   color: #fff;
   text-decoration: none;
+  cursor: pointer;
 }
