@@ -38,5 +38,5 @@ landing-cursor
 
 Screenshot [Link](https://ibb.co/8DcWLL41)
 
-<img width="1707" height="8189" alt="image" src="https://github.com/user-attachments/assets/41dcb84f-9fde-4401-9032-ce89aeccd83c" />
+<img width="507" height="1589" alt="image" src="https://github.com/user-attachments/assets/41dcb84f-9fde-4401-9032-ce89aeccd83c" />
 
